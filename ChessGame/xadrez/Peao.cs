@@ -1,6 +1,6 @@
 ﻿using tabuleiro;
 
-namespace ChessGame.
+namespace ChessGame.xadrez
 {
     internal class Peao : Peca
     {
